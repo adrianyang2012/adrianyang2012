@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrianyang2012
 - 👀 I’m interested in Python and Arduino
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI,
 I like:
 Programming
 Go
